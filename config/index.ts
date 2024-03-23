@@ -4,7 +4,7 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: 'TikTok Scripter',
-  description: '[Test 001] TikTok Scripter (Public Repo)',
+  description: '[Test01] TikTok Scripter (Public Repo)',
   copyright: '',
   privacy_policy: '',
   default_language: 'en-US',
